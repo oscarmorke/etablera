@@ -234,9 +234,6 @@ const Footer = () => {
                   <Email href="mailto:hej@etablera.co">
                     <HalfTextSplit text="hej@etablera.co"></HalfTextSplit>
                   </Email>
-                  <Tel href="tel:+46738046047">
-                    <HalfTextSplit text="073 804 60 47"></HalfTextSplit>
-                  </Tel>
                 </Main>
               </Info>
             </Left>
